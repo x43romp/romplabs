@@ -1,0 +1,23 @@
+{
+  "name": "romplabs.com",
+  "version": "1.0.0",
+  "description": "redirect website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x43romp/romplabs.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x43romp/romplabs.com/issues"
+  },
+  "homepage": "https://github.com/x43romp/romplabs.com#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
